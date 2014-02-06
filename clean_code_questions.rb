@@ -49,6 +49,60 @@ pg. 71
 *what is an API?
 *interesting exercise to regenerate
 
+pg. 80
+*why is null being set to variables? is null the same as nil?
+
+pg. 83
+*what does protected mean?
+*do not understand the example
+
+pg. 87
+*what are rvalues?  are they the value of the assignment?
+
+pg. 88
+*what does implements mean?
+
+pg. 89
+*constructors meaning?
+*accessors meaning?
+*extends meaning?
+
+pg. 94
+*go 6-1, 6-2 example again
+
+pg. 96
+*what is polymorphic?
+
+pg. 97
+*is procedural programming the same as functional?
+
+pg. 98=101
+*hiding internal data
+*data structure vs. object
+
+pg. 106
+*to write tests that force..., what???
+
+pg. 107
+*encapsulation?
+*stack trace?7
+
+pg. 108
+*wrapper?
+
+pg. 109
+*wrapping third party APIs?
+*handlers?
+
+pg. 110
+*special case object?
+
+pg. 111
+*how to avoid not returning null?
+
+pg. 263
+*what does final mean in java?
+
 
 
 
