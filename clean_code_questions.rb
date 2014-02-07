@@ -85,7 +85,7 @@ pg. 106
 
 pg. 107
 *encapsulation?
-*stack trace?7
+*stack trace?
 
 pg. 108
 *wrapper?
@@ -99,6 +99,29 @@ pg. 110
 
 pg. 111
 *how to avoid not returning null?
+
+pg. 115
+*generics?
+*boundry interface?
+*avoid returning or accepting as argument public APIs
+
+pg. 116
+*is a logger a place where things are just recorded?
+
+pg. 118
+*is a boundry test the same thing learning test?
+
+pg. 120
+*do I have the concept of adaptar right?
+
+pg. 124
+*partitioned design
+
+pg. 126
+*crawlers
+
+pg. 129
+*StringBuffer?
 
 pg. 263
 *what does final mean in java?
