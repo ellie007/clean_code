@@ -98,7 +98,7 @@ pg. 110
 *special case object?
 
 pg. 111
-*how to avoid not returning null?
+*how to avoid not returning null?3
 
 pg. 115
 *generics?
@@ -122,6 +122,39 @@ pg. 126
 
 pg. 129
 *StringBuffer?
+
+pg. 136
+*what is utility function vs. other functions?
+*protected vs. private
+
+pg. 139
+*swing representation
+
+pg. 146
+*SOAP service?
+
+pg. 149
+*is an interface the same thing as an abstract class?  what is the difference?
+
+pg. 154
+*more about lazy initialization/evaluation
+*null is never returned?
+
+pg. 155
+*test double or mock object
+*service field
+*wiring, example of?
+
+pg. 156
+*go over the two figures
+*abstract factory
+
+pg. 157
+*dependency injection - go over this again
+
+pg. 155 - 166
+*didn't understand many of the concepts
+
 
 pg. 263
 *what does final mean in java?
